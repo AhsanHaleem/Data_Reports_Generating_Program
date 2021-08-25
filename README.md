@@ -1,7 +1,7 @@
 # Data_Reports_Generating_Program
 This program in C++ generates tables from data from Statistics Canada. Still in progress...
 
-Purpose: To design and develop a C++ program that produces 3 three sets of reports based on data from Statistics Canada’s Other livestock1 census, for the years 2011 and 2016. 
+Purpose: To design and develop a C++ program that produces three sets of reports based on data from Statistics Canada’s Other livestock1 census, for the years 2011 and 2016. 
 * To Compile: make
 * To Run: ./fp
 
