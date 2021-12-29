@@ -8,7 +8,7 @@ However any data file can be given to this software to generate tables based upo
 
 This program demonstrates my knowledge on: 
   * Documentaton
-  * Object-oriented design and programming (OOP)
+  * Object-oriented design and programming (OOD and OOP)
   * STL (Standard Template Library):  vector, lists, iterators, etc.
   * iomanip library
   * Exception Handling
